@@ -23,9 +23,7 @@
 
 Список классов (меток):
 
-Each training and test example is assigned to one of the following labels:
-
-| Label | Description |
+| Метка (label) | Класс |
 | --- | --- |
 | 0 | T-shirt / top (Футболка / топ) |
 | 1 | Trouser (Брюки) |
